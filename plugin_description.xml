@@ -1,0 +1,9 @@
+<library path="lib/libslamware_rviz_plugins">
+  <class name="slamware_rviz_plugins/SetPoseTool"
+         type="slamware_rviz_plugins::SetPoseTool"
+         base_class_type="rviz::Tool">
+    <description>
+      slamware_ros_sdk setpose tool
+    </description>
+  </class>
+</library>
